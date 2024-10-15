@@ -18,7 +18,7 @@ pingの正体は、ICMPの中で一番有名な使われ方である**ping要求
 宛先IPアドレスを指定してping要求を送り、その宛先まで到達できれば送信元へping応答を返します。
 これが送信元に戻ってくればIPネットワークとして機能しているということを評価することもできます。
 
-![ping](./imege/ping.png)
+![ping1](./imege/ping1.png)
 
 ## Destination Unreachable(Type3)
 指定した宛先IPまで到達できない場合はこのタイプのICMPが送信元IPに返されます。
