@@ -13,7 +13,7 @@ IPを使って動作しますが、IPと同じ**レイヤ3**のプロトコル�
 pingはICMPの機能の一部であり、ICMPだからといって、pingとは限りません。
 
 ## ICMPの機能
-pingの正体は、ICMPの中で一番有名な使われ方である**ping要求(Echo Request)**と **ping応答(Echo Reply)**です。
+pingの正体は、ICMPの中で一番有名な使われ方である **ping要求(Echo Request)** と **ping応答(Echo Reply)** です。
 
 宛先IPアドレスを指定してping要求を送り、その宛先まで到達できれば送信元へping応答を返します。
 これが送信元に戻ってくればIPネットワークとして機能しているということを評価することもできます。
