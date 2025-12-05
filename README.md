@@ -1,5 +1,1 @@
 # pages
-
-sample
-
-sample
