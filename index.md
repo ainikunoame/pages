@@ -17,7 +17,8 @@
 * **[Windows](#Windows)**
 
 ## 💾データベース・ストレージ
-* **[NosQL](./database-storage/nosql_index.md)**
+* **[概要](./database-storage/database-storage_index.md)**
+   * [NoSQL](./database-storage/nosql.md)
 
 ## ☁️クラウド
 * **[AWS](./cloud/aws/)**
