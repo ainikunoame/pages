@@ -1,0 +1,26 @@
+# AzCommand
+- [Command](#Command)
+- [tips](#tips)
+- [参考](#参考)
+
+
+<a id="Command"></a>
+## Commamd
+
+### 
+Connect-AzAccount
+
+Get-AZSubscription
+
+
+
+
+
+<a id="tips"></a>
+## tips
+
+<a id="参考"></a>
+## 参考
+[](https://)
+
+## version
