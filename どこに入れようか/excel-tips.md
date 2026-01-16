@@ -8,8 +8,22 @@
 ## 名前の定義
 セル、範囲、数式に名前を定義できる
 
-ctrl + F3で名前の管理ウィンドウを開く
+ctrl + F3で名前の管理ウィンドウを操作する
 
+### 非表示になっている名前の定義を再表示させる
+VBAにて以下のマクロを実行する
+
+```
+Public Sub VisibleNames()
+    Dim name As Object
+    For Each name In Names
+        If name.Visible = False Then
+            name.Visible = True
+        End If
+    Next
+    MsgBox "すべての名前の定義を表示しました。", vbOKOnly
+End Sub
+```
 
 
 
