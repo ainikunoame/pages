@@ -17,6 +17,14 @@ Microsoft公式の全認定資格の体系図
 
 [Certification Poster](https://arch-center.azureedge.net/Credentials/Certification-Poster-en-us.pdf)
 
+az900対策にポイントを整理したメモ
+
+[az900対策](./az900対策メモ.md)
+
+AZコマンド集(利用したものを追加)
+
+[AzCommand](./AzCommand.md)
+
 <a id="ドキュメント"></a>
 ### ドキュメント
 **認定資格-学習ガイド一覧**
